@@ -1,0 +1,7 @@
+body {
+    background-image: url("2.png");
+    width: 500px;
+    height: 600px;
+   object-fit: cover;
+}
+   
